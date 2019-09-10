@@ -1,4 +1,4 @@
-//Gabriel de Quadross
+//Gabriel de Quadrosss
 
 #include <stdio.h>
 #include <stdlib.h>
